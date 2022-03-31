@@ -6,4 +6,7 @@
 프로젝트 간단 설명 : 기업에서 사용하는 그룹웨어의 핵심 기능들을 구현해보는 프로젝트입니다.<br>
 <a href="https://www.notion.so/coffit23/Miracle-Job-A-2d607fca8bfd4ec88c6e1b722e46e458">프로젝트 상세 설명 Notion 페이지</a>  
 <br>
-<a href="https://www.figma.com/file/4PBfu21xCqYEGNdX82LSXn/MIRACLE?node-id=0%3A1"> Figma를 이용한 UI설계  </a> <br>
+UI설게 메인페이지 : 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/99496369/161097401-f0d66bcf-5b9a-43eb-a16d-702af15000d8.png">
+
+<a href="https://www.figma.com/file/4PBfu21xCqYEGNdX82LSXn/MIRACLE?node-id=0%3A1"> Figma를 이용한 UI설계 전체보기  </a> <br>
