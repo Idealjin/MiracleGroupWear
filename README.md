@@ -17,3 +17,6 @@
 
 <h3>핵심 주요기능</h3>
 회원관리/게시판/주소록/일정관리/전자결재
+
+ERD 설계 : 
+![image](https://user-images.githubusercontent.com/99496369/161576657-c9eaf4ff-6c24-4610-938e-c3c0cd6826e3.png)
