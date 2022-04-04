@@ -16,14 +16,15 @@
 <a href="https://www.figma.com/file/4PBfu21xCqYEGNdX82LSXn/MIRACLE?node-id=0%3A1"> Figma를 이용한 UI설계 전체보기  </a> <br>
 
 <h3>핵심 주요기능</h3>
-회원관리/게시판/주소록/일정관리/전자결재
+회원관리/게시판/주소록/일정관리/전자결재<br>
 
 
 
 <details>
 <summary>ERD 설계 보기</summary>
 <div markdown="1">
-![image](https://user-images.githubusercontent.com/99496369/161577280-4de9e3bb-4b09-406a-997f-cf46667437be.png)
+<img alt="ERD" src="https://user-images.githubusercontent.com/99496369/161577280-4de9e3bb-4b09-406a-997f-cf46667437be.png">
+
 
 </div>
 </details>
